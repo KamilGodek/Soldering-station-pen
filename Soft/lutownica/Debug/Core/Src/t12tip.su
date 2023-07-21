@@ -1,0 +1,2 @@
+../Core/Src/t12tip.c:15:10:adc_read	32	static
+../Core/Src/t12tip.c:31:6:PWM_generation	8	static

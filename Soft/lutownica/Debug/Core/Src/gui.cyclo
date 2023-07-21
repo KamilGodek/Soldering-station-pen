@@ -1,0 +1,8 @@
+gui.c:42:6:PrintSetTemperature	1
+gui.c:56:6:PrintCurrentTemperature	1
+gui.c:68:6:PrintPower	1
+gui.c:80:6:PrintDeviceStatus	2
+gui.c:33:6:DrawMainScrean	1
+gui.c:87:6:Buzz	1
+gui.c:10:6:MainScrean	7
+gui.c:94:6:MenuScrean	11

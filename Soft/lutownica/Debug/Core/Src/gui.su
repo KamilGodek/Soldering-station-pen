@@ -1,0 +1,8 @@
+../Core/Src/gui.c:42:6:PrintSetTemperature	24	static
+../Core/Src/gui.c:56:6:PrintCurrentTemperature	16	static
+../Core/Src/gui.c:68:6:PrintPower	24	static
+../Core/Src/gui.c:80:6:PrintDeviceStatus	8	static
+../Core/Src/gui.c:33:6:DrawMainScrean	24	static
+../Core/Src/gui.c:87:6:Buzz	8	static
+../Core/Src/gui.c:10:6:MainScrean	32	static
+../Core/Src/gui.c:94:6:MenuScrean	16	static
